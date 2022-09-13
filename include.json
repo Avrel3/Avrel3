@@ -1,5 +1,13 @@
 [
     {
-        "name": null
+        "repo": "nodesql"
+    },
+    
+    {
+        "repo": "noco_query"
+    },
+    
+    {
+        "repo": "api"
     }
 ]
