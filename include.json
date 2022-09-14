@@ -15,7 +15,7 @@
     
     {
         "repo": "elf",
-        "desc": "Custom Projects"
+        "desc": "Custom Projects",
         "type": "git",
         "lang": "python"
     }
