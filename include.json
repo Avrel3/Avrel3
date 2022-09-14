@@ -1,13 +1,19 @@
 [
     {
-        "repo": "nodesql"
+        "repo": "nodesql",
+        "type": "npm"
+        "lang": "nodejs"
     },
     
     {
-        "repo": "noco_query"
+        "repo": "noco_query",
+        "type": "npm",
+        "lang": "nodejs"
     },
     
     {
-        "repo": "elf"
+        "repo": "elf",
+        "type": "git",
+        "lang": "python"
     }
 ]
