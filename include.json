@@ -1,14 +1,14 @@
 [
     {
         "repo": "-avrel3-nodesql",
-        "desc": "mysql commands made easier for development"
+        "desc": "mysql commands made easier for development",
         "type": "npm",
         "lang": "nodejs"
     },
     
     {
         "repo": "noco_query",
-        "desc"" "Query support for open source nocodb database"
+        "desc": "Query support for open source nocodb database",
         "type": "npm",
         "lang": "nodejs"
     },
