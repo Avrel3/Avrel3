@@ -1,7 +1,7 @@
 [
     {
         "repo": "nodesql",
-        "type": "npm"
+        "type": "npm",
         "lang": "nodejs"
     },
     
