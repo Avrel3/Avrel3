@@ -24,7 +24,7 @@
         "lang": "html5"
     },
     {
-        "repo": "io",
+        "repo": "api",
         "desc": "Simple Express server for Auth",
         "type": "git",
         "lang": "nodejs"
