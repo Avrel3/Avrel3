@@ -21,7 +21,6 @@
         "repo": "taseract.ml",
         "desc": "Simple Chatting Website",
         "type": "site",
-        "lang": "html5",
-        "link": "https://taseract.ml"
+        "lang": "html5"
     }
 ]
