@@ -11,12 +11,5 @@
         "desc": "Query support for open source nocodb database",
         "type": "npm",
         "lang": "nodejs"
-    },
-    
-    {
-        "repo": "elf",
-        "desc": "Custom Projects",
-        "type": "git",
-        "lang": "python"
     }
 ]
