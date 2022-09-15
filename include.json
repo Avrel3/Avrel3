@@ -20,7 +20,8 @@
     {
         "repo": "taseract.ml",
         "desc": "Simple Chatting Website",
-        "type": "git",
-        "lang": "html5"
+        "type": "site",
+        "lang": "html5",
+        "link": "https://taseract.ml"
     }
 ]
