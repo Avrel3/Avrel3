@@ -22,5 +22,11 @@
         "desc": "Simple Chatting Website",
         "type": "site",
         "lang": "html5"
+    },
+    {
+        "repo": "io",
+        "desc": "Simple Express server for Auth",
+        "type": "git",
+        "lang": "nodejs"
     }
 ]
