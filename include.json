@@ -6,12 +6,6 @@
         "lang": "nodejs"
     },
     {
-        "repo": "-avrel3-nodesql",
-        "desc": "mysql commands made easier for development",
-        "type": "npm",
-        "lang": "nodejs"
-    },
-    {
         "repo": "elf",
         "desc": "Simple Terminal",
         "type": "git",
