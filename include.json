@@ -1,5 +1,11 @@
 [
     {
+        "repo": "notes",
+        "desc": "Notes App",
+        "type": "git",
+        "lang": "html5"
+    },
+    {
         "repo": "noco_query",
         "desc": "Query support for open source nocodb database",
         "type": "npm",
