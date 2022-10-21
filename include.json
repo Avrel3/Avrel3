@@ -22,11 +22,5 @@
         "desc": "Simple Chatting Website",
         "type": "site",
         "lang": "html5"
-    },
-    {
-        "repo": "api",
-        "desc": "Simple Express Server",
-        "type": "git",
-        "lang": "nodejs"
     }
 ]
