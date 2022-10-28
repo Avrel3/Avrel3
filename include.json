@@ -16,11 +16,5 @@
         "desc": "Simple Terminal",
         "type": "git",
         "lang": "python"  
-    },
-    {
-        "repo": "taseract.ml",
-        "desc": "Simple Chatting Website",
-        "type": "site",
-        "lang": "html5"
     }
 ]
