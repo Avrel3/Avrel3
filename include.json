@@ -12,7 +12,7 @@
         "lang": "nodejs"
     },
     {
-        "repo": "elf",
+        "repo": "elf-terminal",
         "desc": "Simple Terminal",
         "type": "git",
         "lang": "python"  
