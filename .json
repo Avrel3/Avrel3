@@ -1,0 +1,37 @@
+[
+  {
+    "repo": "taseract",
+    "desc": "Chat App",
+    "type": "web",
+    "lang": "express",
+    "link": "https://taseract.ml"
+  },
+  {
+    "repo": "notes",
+    "desc": "Notes App",
+    "type": "web",
+    "lang": "react",
+    "link": "https://notes.avrel.ml"
+  },
+  {
+    "repo": "eve",
+    "desc": "Eve - Terminal App made in dart",
+    "type": "github",
+    "lang": "dart",
+    "link": "https://github.com/Avrel3/eve"
+  },
+  {
+    "repo": "elf",
+    "desc": "Python Terminal App",
+    "type": "github",
+    "lang": "python",
+    "link": "https://github.com/Avrel3/elf"
+  },
+  {
+    "repo": "nokker",
+    "desc": "Nodejs cli App",
+    "type": "npmjs",
+    "lang": "nodejs",
+    "link": "https://npmjs.com/package/nokker"
+  }
+]
