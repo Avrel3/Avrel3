@@ -8,5 +8,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=av-rel&show_icons=true&theme=tokyonight&locale=en" alt="av-rel" /></p>
 
 <div align="center"> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=av-rel&" alt="av-rel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=av-rel&layout=compact&theme=tokyonight&border_radius=10" alt="av-rel" /></p>
 </div>
